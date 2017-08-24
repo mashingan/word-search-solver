@@ -3,7 +3,7 @@ Word Solver
 
 This repository is created as backup for attempting to solve the Word Solver problem within array of array of characters.  
 
-Word Solver problem is a kind of problem to count how many words available within a map of characters when looked in horizontal, forward and backward read, also vertically and diagonally.
+Word Solver problem is a kind of problem to count how many words available within a map of characters when looked in horizontal, forward and backward read, also vertically and diagonally. Look for [Word Search](https://en.wikipedia.org/wiki/Word_search) entry in Wikipedia.
 
 For example, ``cat`` is the word we want to search while below is the map
 
