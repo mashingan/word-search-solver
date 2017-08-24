@@ -1,0 +1,16 @@
+*
+*/*
+
+!*.*
+
+# executable builds file extensions
+*.exe
+*.out
+*.obj
+*.pdb
+
+# vim buffer file extensions
+*.un~
+*.swap
+*.swp
+*.swo
